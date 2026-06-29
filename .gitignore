@@ -1,2 +1,5 @@
 failed_batches.jsonl
 missing_tags.txt
+jin-10w-zh_cn-2.csv
+missing_from_new.csv
+new_only_tags.csv
